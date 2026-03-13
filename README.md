@@ -117,7 +117,7 @@ The prompt is specifically designed to:
 
 ## Development
 
-Both the frontend and backend are auto-running via Vibecode services. No manual startup required.
+Both the frontend and backend are auto-running via services. No manual startup required.
 
 ## Security Features
 
